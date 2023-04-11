@@ -1,2 +1,2 @@
 # SQA-Websites-and-API's-PerformanceTesting(JMeter)
-This repository contains the Performance (Load and Stress) Testing on different types of Websites and API's by the using of Apache JMeter
+I did some performance testing (Both Load & Stress Testing) on different types of websites and API's by the using of Apache JMeter. In this repository, I have added all of my performance testing jmx files.  
