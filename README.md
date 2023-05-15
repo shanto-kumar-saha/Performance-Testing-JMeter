@@ -6,7 +6,7 @@
 <p id="description"> I did some Performance Testing (Both Load & Stress Testing) on different types of websites and API's by the using Apache JMeter. In this repository, I have added all of my Performance Testing jmx files.</p>
 
 <h2>Project Screenshots:</h2>
-![PIC 1](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/0189cc1e-5e36-426d-bc37-336c75a5a44b)
+(https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/0189cc1e-5e36-426d-bc37-336c75a5a44b)
 
 ## 🎯 Features
 
