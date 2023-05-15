@@ -63,5 +63,5 @@ Technologies used in the project:
 *   JAVA
 *   JMeter
 *   Microsoft excel
-*   Google Chorome
+*   Google Chrome
 
