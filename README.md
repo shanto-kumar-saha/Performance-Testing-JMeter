@@ -26,9 +26,9 @@ Here're some of the project's best features:
 
 <p>4. After that save the file and run the test and check how the result came.</p>
 
-<p>6. NON GUI mood is recommended for heavy testing</p>
+<p>5. NON GUI mood is recommended for heavy testing</p>
 
-<p>7. CMD command for dasdboard and csv file [ jmeter -n -t ( bin file location jmx file name) -l (bin location and create .csv file) -o -e and bin file location.</p>
+<p>6. CMD command for dasdboard and csv file [ jmeter -n -t ( bin file location jmx file name) -l (bin location and create .csv file) -o -e and bin file location.</p>
 
   
   
