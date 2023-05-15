@@ -7,27 +7,27 @@
 
 <h2>Project Screenshots:</h2>
 
-<h3> Thread Group <h3>
+<h3> Thread Group- <h3>
   
 ![Screenshot_1](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/05597d72-5e38-4563-aa28-1b82fabe4155)
   
-<h3> HTTP Request <h3>
+<h3> HTTP Request- <h3>
   
 ![http request](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/3d9f117b-8535-423a-8e2f-56bbabccead5)
     
-<h3> Post API <h3>  
+<h3> Post API- <h3>  
   
 ![Screenshot_3(Post API)](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/189bcc96-e713-4868-a942-dcc030a2fc16)
      
-<h3> Summary Report <h3>
+<h3> Summary Report- <h3>
   
 ![Summary Report](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/a6228db7-96b2-4947-baf0-5d46d96b8bd2)
         
-<h3> View Result in Table <h3>
+<h3> View Result in Table- <h3>
             
 ![View Result in Table](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/0039e423-c70b-49c3-9492-9271fd1735f7)
             
-<h3> View Result in Table <h3>
+<h3> View Result in Table- <h3>
   
 ![User Degifined Variables](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/4b2da34d-ee22-4ad5-973e-bd5ffa5383ef)
 
