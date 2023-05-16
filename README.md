@@ -26,10 +26,6 @@
 <h3> View Result in Table- <h3>
             
 ![View Result in Table](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/0039e423-c70b-49c3-9492-9271fd1735f7)
-            
-<h3> View Result in Table- <h3>
-  
-![User Degifined Variables](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/4b2da34d-ee22-4ad5-973e-bd5ffa5383ef)
 
 <h3> User Defined Variables- <h3>
   
