@@ -31,6 +31,9 @@
   
 ![User Degifined Variables](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/4b2da34d-ee22-4ad5-973e-bd5ffa5383ef)
 
+<h3> User Defined Variables- <h3>
+![User Degifined Variables](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/6915d48e-4ce4-4fe5-9ce2-0b0aab2487ba)
+
 
 ## 🎯 Features
 
@@ -62,6 +65,6 @@ Technologies used in the project:
 
 *   JAVA
 *   JMeter
-*   Microsoft excel
+*   Microsoft Excel
 *   Google Chrome
 
