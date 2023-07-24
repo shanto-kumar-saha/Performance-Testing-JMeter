@@ -1,7 +1,7 @@
 <h1 id="title" align="center">Performance Testing (JMeter)</h1>
 
 
-<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Websites-and-APIs-PerformanceTesting-JMeter-SQA/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/PerformanceTesting-JMeter/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 ## 📝 Description 
 <p id="description"> Performance Testing is performed to evaluate application performance under high load and stress condition. It is generally measured in terms of response time for the user activity. I did some Performance Testing (Both Load & Stress Testing) on different types of websites and API's by the using Apache JMeter. In this repository, I have added all of my Performance Testing jmx files.</p>
